@@ -1,0 +1,102 @@
+.tour
+{
+    background-color: black;
+    color: white;
+    height: 80vh;
+    width: 100%;
+}
+
+.isaac
+{
+    max-width: 1200px;
+    margin: auto;
+}
+
+.titulotour, .subtitulotour
+{
+    text-align: center;
+}
+
+.tabelatour
+{
+    background-color: #fff;
+    color: black;
+    margin: 1rem;
+}
+
+.linhatour1, .linhatour2, .linhatour3, .linhatour4
+{
+    padding: 1rem;
+    border-bottom: 0.5px solid #6d6a6a;
+}
+
+.cards
+{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.tourcard1
+{
+    border: 1px solid white;
+    width: 300px;
+    height: 400px;
+}
+
+.tourimagemcard
+{
+    background-image: url(../imagens/tumblr_50f76e9d7ceb1f084f64f43eddda2e00_5848770e_1280.jpg);
+    background-size: cover;
+    height: 50%;
+    background-position: center;
+}
+
+.tourcard2
+{
+    border: 1px solid white;
+    width: 300px;
+    height: 400px;
+}
+.tourimagemcard2
+{
+    background-image: url(../imagens/nobara.jpg);
+    background-size: cover;
+    height: 50%;
+    background-position: center;
+}
+
+.tourcard3
+{
+    border: 1px solid white;
+    width: 300px;
+    height: 400px;
+}
+
+.tourimagemcard3
+{
+    background-image: url(../imagens/itadori.jpg);
+    background-size: cover;
+    height: 50%;
+    background-position: center;
+}
+
+iframe
+{
+    width: 100%;
+}
+
+footer
+{
+    background-color: black;
+    height: 100px;
+    padding: 1rem;
+    color: gray;
+}
+
+footer
+{
+    text-align: center;
+    padding: 1rem;
+}
+

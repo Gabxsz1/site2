@@ -1,0 +1,31 @@
+.listaNav
+{
+    display: flex;
+    background-color: black;
+    color: white;
+    justify-content: center;
+    width: 100%;
+}
+header
+{
+    width: 100%;
+}
+
+.listaNav li
+{
+font-size: 32px;
+margin: 1rem;
+}
+
+@media(max-width: 760px)
+{
+    header
+    {
+        display: none;
+    }
+}
+header
+{
+    position: fixed;
+    max-width: 100%  ;
+}
